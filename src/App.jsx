@@ -14,7 +14,7 @@ function App() {
 
       <Routes>
         <Route path="/" element={<Home nomePagina="Pagina Inicial" />} />
-        <Route path="/missao" element={<Missao nomePagina="Nossão Missão" />} />
+        <Route path="/missao" element={<Missao nomePagina="Missão Chakra UI" />} />
         <Route
           path="/produto"
           element={<Produto nomePagina="Nossos Produtos" />}
