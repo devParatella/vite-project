@@ -7,7 +7,7 @@ export function Header() {
     <Flex as="header" bg="gray.200" p={2} align="center" justify="space-between">
       <Box>
         <Text fontSize="x1" fontWeight="bold">
-          Vite React javascript ChakraUi e css
+          Vite React ChakraUi
         </Text>
       </Box>
       <Flex as="ul" listStyleType="none" p={0} m={0}>
