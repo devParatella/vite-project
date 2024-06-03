@@ -7,7 +7,7 @@ export function Footer(props) {
     <Flex as="footer" bg="gray.700" color="white" p={2} textAlign="center" direction="column" alignItems="center" position="fixed" bottom={0} width="100%">
       <Text>{props.nomeFooter}</Text>
       <Flex mt={2} justifyContent="center" width="100%">
-        <SocialLink name="Marcos Paratella" github="https://github.com/marcosparatella" linkedin="https://linkedin.com/in/marcosparatella" />
+        <SocialLink name="Marcos Paratella" github="https://github.com/devParatella" linkedin="https://www.linkedin.com/in/marcos-paratella-74b291239/" />
         <SocialLink name="Viviane Santos" github="https://github.com/vivianeds" linkedin="https://linkedin.com/in/vivianeds" />
         <SocialLink name="Mayra Pacheco" github="https://github.com/mayrapacheco" linkedin="https://linkedin.com/in/mayrapacheco" />
       </Flex>
