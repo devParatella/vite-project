@@ -8,7 +8,7 @@ export function Footer(props) {
       <Text>{props.nomeFooter}</Text>
       <Flex mt={2} justifyContent="center" width="100%">
         <SocialLink name="Marcos Paratella" github="https://github.com/marcosparatella" linkedin="https://linkedin.com/in/marcosparatella" />
-        <SocialLink name="Viviane Santos" github="https://github.com/vivianeds" linkedin="https://linkedin.com/in/vivianeds" />
+        <SocialLink name="Viviane Santos" github="https://github.com/jsvivis" linkedin="https://www.linkedin.com/in/viviane-santos-a6a69127b"/>
         <SocialLink name="Mayra Pacheco" github="https://github.com/mayrapacheco" linkedin="https://linkedin.com/in/mayrapacheco" />
       </Flex>
     </Flex>
