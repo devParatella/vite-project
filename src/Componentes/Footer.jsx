@@ -10,10 +10,6 @@ export function Footer(props) {
 
         <SocialLink name="Marcos Paratella" github="https://github.com/marcosparatella" linkedin="https://linkedin.com/in/marcosparatella" />
         <SocialLink name="Viviane Santos" github="https://github.com/jsvivis" linkedin="https://www.linkedin.com/in/viviane-santos-a6a69127b"/>
-=======
-        <SocialLink name="Marcos Paratella" github="https://github.com/devParatella" linkedin="https://www.linkedin.com/in/marcos-paratella-74b291239/" />
-        <SocialLink name="Viviane Santos" github="https://github.com/jsvivis" linkedin="https://www.linkedin.com/in/viviane-santos-a6a69127b" />
-
         <SocialLink name="Mayra Pacheco" github="https://github.com/mayrapacheco" linkedin="https://linkedin.com/in/mayrapacheco" />
       </Flex>
     </Flex>
