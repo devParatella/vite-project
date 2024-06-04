@@ -16,13 +16,23 @@ function App() {
         <Header />
 
         <Routes>
-          <Route path="/" element={<Home nomePagina=" Início da jornada de aprendizado do Chakra UI" />} />
-          <Route path="/missao" element={<Missao nomePagina="Missão Chakra UI" />} />
-          <Route path="/produto" element={<Produto nomePagina="Nossos Produtos" />} />
+          <Route
+            path="/"
+            element={
+              <Home nomePagina=" Início da jornada de aprendizado do Chakra UI" />
+            }
+          />
+          <Route
+            path="/missao"
+            element={<Missao nomePagina="Missão Chakra UI" />}
+          />
+          <Route
+            path="/produto"
+            element={<Produto nomePagina="Nossos Produtos" />}
+          />
           <Route path="/contato" element={<Contato nomePagina="Contato" />} />
         </Routes>
-
-        <Footer/>
+        <Footer />
       </div>
     </ChakraProvider>
   );
